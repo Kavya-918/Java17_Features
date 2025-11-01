@@ -50,3 +50,28 @@ public class SwitchWithMultipleCaseLabelDemo {
     }
 
 }
+
+
+
+/** output
+
+"C:\Program Files\Java\jdk-17.0.4\bin\java.exe" --enable-preview "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.5\lib\idea_rt.jar=49675" -Dfile.encoding=UTF-8 -classpath D:\Java17\out\production\Java17 SwitchWithMultipleCaseLabelDemo
+Before Java 17 Version
+two, three, four
+Handled in old switch
+two, three, four
+Handled in old switch
+two, three, four
+Handled in old switch
+Java 17 Version
+two, three, or four
+This executes multiple statements
+two, three, or four
+This executes multiple statements
+two, three, or four
+This executes multiple statements
+
+Process finished with exit code 0
+
+
+    **/
