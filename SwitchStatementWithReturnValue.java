@@ -32,3 +32,23 @@ public class SwitchStatementWithReturnValue {
         System.out.println(classifyNumber(-2.5));
     }
 }
+
+
+
+
+/** output
+
+"C:\Program Files\Java\jdk-17.0.4\bin\java.exe" --enable-preview "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.5\lib\idea_rt.jar=51373" -Dfile.encoding=UTF-8 -classpath D:\Java17\out\production\Java17 SwitchStatementWithReturnValue
+Integer: 10
+String: Kavyadeveloper
+Null Value
+Unknown Type
+Even Integer
+Odd Integer
+Positive Double
+Non-positive Double
+
+Process finished with exit code 0
+
+
+    **/
