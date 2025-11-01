@@ -37,3 +37,17 @@ public class SwitchDemo {
         java17SwitchStatement(num);
     }
 }
+
+
+
+
+/** output
+
+"C:\Program Files\Java\jdk-17.0.4\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.5\lib\idea_rt.jar=62590" -Dfile.encoding=UTF-8 -classpath D:\Java17\out\production\Java17 SwitchDemo
+Enter a number: 2
+Before Java17 = two
+Java17 = Two
+
+Process finished with exit code 0
+
+    **/
