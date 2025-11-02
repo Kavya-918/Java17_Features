@@ -12,7 +12,7 @@ public class PatternMatchingInstanceOfExample {
 
     // Java 17 pattern matching for instanceof
     public static void java17PatternMatching(Object obj) {
-        if (obj instanceof String s) {
+        if (obj instanceof String s) { //pattern variable s
             System.out.println("String length: " + s.length());
         } else {
             System.out.println("Not a string");
@@ -46,4 +46,5 @@ Process finished with exit code 0
 
 
 **/
+
 
