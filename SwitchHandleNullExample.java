@@ -39,3 +39,23 @@ public class SwitchHandleNullExample {
         System.out.println(describe(12.5));
     }
 }
+
+
+/** output
+
+
+"C:\Program Files\Java\jdk-17.0.4\bin\java.exe" --enable-preview "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.5\lib\idea_rt.jar=57858" -Dfile.encoding=UTF-8 -classpath D:\Java17\out\production\Java17 SwitchHandleNullExample
+---- Before Java 17 ----
+oops! null value 
+Great!
+
+---- Java 17 ----
+It's null
+An Integer
+A String
+Something else
+
+Process finished with exit code 0
+
+**/
+
