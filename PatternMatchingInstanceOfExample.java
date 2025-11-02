@@ -29,3 +29,21 @@ public class PatternMatchingInstanceOfExample {
         java17PatternMatching(456);
     }
 }
+
+
+
+/** output
+
+
+"C:\Program Files\Java\jdk-17.0.4\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.5\lib\idea_rt.jar=61740" -Dfile.encoding=UTF-8 -classpath D:\Java17\out\production\Java17 PatternMatchingInstanceOfExample
+String length: 5
+Not a string
+-----
+String length: 7
+Not a string
+
+Process finished with exit code 0
+
+
+**/
+
