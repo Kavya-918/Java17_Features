@@ -38,3 +38,18 @@ public class RecordExample {
         System.out.println(p2);          // auto toString()
     }
 }
+
+
+/*  
+"C:\Program Files\Java\jdk-17.0.4\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.5\lib\idea_rt.jar=62796" -Dfile.encoding=UTF-8 -classpath D:\Java17\out\production\Java17 RecordExample
+Krishkumar
+29
+Person{name='Krishkumar', age=29}
+Krishkumar
+29
+PersonRecord[name=Krishkumar, age=29]
+
+Process finished with exit code 0
+
+
+*/
